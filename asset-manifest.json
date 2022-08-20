@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/My-Notebook/static/css/main.0b2bc88c.css",
+    "main.js": "/My-Notebook/static/js/main.d1200d52.js",
+    "static/media/landingPage.jpg": "/My-Notebook/static/media/landingPage.65e61a8488eb5b5c0c06.jpg",
+    "index.html": "/My-Notebook/index.html",
+    "main.0b2bc88c.css.map": "/My-Notebook/static/css/main.0b2bc88c.css.map",
+    "main.d1200d52.js.map": "/My-Notebook/static/js/main.d1200d52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2bc88c.css",
+    "static/js/main.d1200d52.js"
+  ]
+}
