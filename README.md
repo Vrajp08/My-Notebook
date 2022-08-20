@@ -1,4 +1,7 @@
-<h1> My Notebook </h1>
+<h1> My Notebook(MERN STACK) </h1>
+My notebook is one type of note taking app in which the user can create their notes as well as modify and delete.
+The password of user's stored in the form of hash in database (mongodb).
+Anyone can use this website for their personal records it is completely secure.
 
 Here is the working live demo of website: https://vrajp08.github.io/My-Notebook/
 
